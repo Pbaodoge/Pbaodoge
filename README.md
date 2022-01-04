@@ -1,5 +1,4 @@
-### Hi there 👋
-       <h1 align = "center">Hello, I'm<h1>
+      <h1 align = "center">Hello, I'm<h1>
        <h3 align = "center">Pbaodoge | Siesta<h3>
 - 🔭 I’m currently building my own website
 - 🌱 I’m currently learning C++, Python, JavaScript, Arduino, HTML, CSS
