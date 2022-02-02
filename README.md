@@ -5,4 +5,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dont use programming just to programming. I wanted to make the our world a better place to live
 - 🌐 Check out my new website: https://pbaodoge.ml
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pbaodoge-0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pbaodoge&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
